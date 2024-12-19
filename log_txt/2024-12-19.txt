@@ -1,0 +1,592 @@
+2024-12-19 00:00:01.146228: Güncelleme başarılı! Veriler: [
+    {
+        "date": "2024-12-19T00:00:00.652062",
+        "brand": "Aygaz",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    },
+    {
+        "date": "2024-12-19T00:00:00.652062",
+        "brand": "Mogaz",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    },
+    {
+        "date": "2024-12-19T00:00:00.652062",
+        "brand": "Sarı kapak",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "kamp"
+    },
+    {
+        "date": "2024-12-19T00:00:00.652062",
+        "brand": "Kapaksız",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    }
+]
+2024-12-19 00:00:01.969294: Güncelleme başarılı! Veriler: [
+    {
+        "date": "2024-12-19T00:00:01.146228",
+        "brand": "Aygaz",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    },
+    {
+        "date": "2024-12-19T00:00:01.146228",
+        "brand": "Mogaz",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    },
+    {
+        "date": "2024-12-19T00:00:01.146228",
+        "brand": "Sarı kapak",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "kamp"
+    },
+    {
+        "date": "2024-12-19T00:00:01.146228",
+        "brand": "Kapaksız",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    }
+]
+2024-12-19 00:04:16.982479: Güncelleme başarılı! Veriler: [
+    {
+        "date": "2024-12-19T00:04:16.616074",
+        "brand": "Aygaz",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    },
+    {
+        "date": "2024-12-19T00:04:16.616074",
+        "brand": "Mogaz",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    },
+    {
+        "date": "2024-12-19T00:04:16.616074",
+        "brand": "Sarı kapak",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "kamp"
+    },
+    {
+        "date": "2024-12-19T00:04:16.616074",
+        "brand": "Kapaksız",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    }
+]
+2024-12-19 00:04:41.303827: Güncelleme başarılı! Veriler: [
+    {
+        "date": "2024-12-19T00:04:40.988628",
+        "brand": "Aygaz",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    },
+    {
+        "date": "2024-12-19T00:04:40.988628",
+        "brand": "Mogaz",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 1,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    },
+    {
+        "date": "2024-12-19T00:04:40.988628",
+        "brand": "Sarı kapak",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "kamp"
+    },
+    {
+        "date": "2024-12-19T00:04:40.988628",
+        "brand": "Kapaksız",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    }
+]
+2024-12-19 00:04:47.563889: Güncelleme başarılı! Veriler: [
+    {
+        "date": "2024-12-19T00:04:47.306314",
+        "brand": "Aygaz",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    },
+    {
+        "date": "2024-12-19T00:04:47.306314",
+        "brand": "Mogaz",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 2,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    },
+    {
+        "date": "2024-12-19T00:04:47.306314",
+        "brand": "Sarı kapak",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "kamp"
+    },
+    {
+        "date": "2024-12-19T00:04:47.306314",
+        "brand": "Kapaksız",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    }
+]
+2024-12-19 00:04:54.027391: Güncelleme başarılı! Veriler: [
+    {
+        "date": "2024-12-19T00:04:53.565867",
+        "brand": "Aygaz",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    },
+    {
+        "date": "2024-12-19T00:04:53.565867",
+        "brand": "Mogaz",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 3,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    },
+    {
+        "date": "2024-12-19T00:04:53.565867",
+        "brand": "Sarı kapak",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "kamp"
+    },
+    {
+        "date": "2024-12-19T00:04:53.565867",
+        "brand": "Kapaksız",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    }
+]
+2024-12-19 00:05:00.323024: Güncelleme başarılı! Veriler: [
+    {
+        "date": "2024-12-19T00:05:00.030224",
+        "brand": "Aygaz",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    },
+    {
+        "date": "2024-12-19T00:05:00.030224",
+        "brand": "Mogaz",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 4,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    },
+    {
+        "date": "2024-12-19T00:05:00.030224",
+        "brand": "Sarı kapak",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "kamp"
+    },
+    {
+        "date": "2024-12-19T00:05:00.030224",
+        "brand": "Kapaksız",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    }
+]
+2024-12-19 00:05:06.613796: Güncelleme başarılı! Veriler: [
+    {
+        "date": "2024-12-19T00:05:06.325995",
+        "brand": "Aygaz",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    },
+    {
+        "date": "2024-12-19T00:05:06.325995",
+        "brand": "Mogaz",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 5,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    },
+    {
+        "date": "2024-12-19T00:05:06.325995",
+        "brand": "Sarı kapak",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "kamp"
+    },
+    {
+        "date": "2024-12-19T00:05:06.325995",
+        "brand": "Kapaksız",
+        "itemList": [
+            {
+                "productGroup": "KampDar",
+                "tbkli": 0,
+                "tbksiz": 0
+            },
+            {
+                "productGroup": "KampGenis",
+                "tbkli": 0,
+                "tbksiz": 0
+            }
+        ],
+        "plant": "Ambarlı",
+        "countingPoint": "Kamp"
+    }
+]
